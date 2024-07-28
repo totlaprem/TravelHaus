@@ -1,2 +1,4 @@
 # TravelHaus
-Project 1
+Project-1
+<b>Author- Prem Totla</b>
+
